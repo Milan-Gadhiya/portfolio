@@ -6,7 +6,7 @@
 - [Launch](#launch)
 - [Screenshots](#screenshots)
 - [Technologies](#technologies)
-- [PortfolioLink](#portfolio)
+- [PortfolioLink](#portfoliolink)
 
 ## Introduction
 This portfolio project showcases my skills, experience, and projects as a software developer. It is a single-page application that provides information about my professional background, technical skills, and a selection of my work. The project is built using modern web development technologies and best practices.
@@ -75,6 +75,6 @@ Open http://localhost:1000 to view it in the browser.
 - **MongoDB:** A NoSQL database program, MongoDB uses JSON-like documents with schema.
 - **Render:** A cloud platform for hosting and deploying web applications.
 
-## Portfolio Link
-<a href="https://milan-portfolio-ff2g.onrender.com/" target="_blank">https://milan-portfolio-ff2g.onrender.com/</a>
+## PortfolioLink
+[<a href="https://milan-portfolio-ff2g.onrender.com/" target="_blank">https://milan-portfolio-ff2g.onrender.com/</a>](https://milan-portfolio-ff2g.onrender.com/)
 
