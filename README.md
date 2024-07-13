@@ -1,4 +1,4 @@
-# Portfolio Project
+# Portfolio
 
 ## Table of Contents
 - [Introduction](#introduction)
